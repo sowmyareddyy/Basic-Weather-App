@@ -13,3 +13,7 @@ Accessing real-time weather information is crucial for planning daily activities
 - Present the weather report in a clear and user-friendly format.  
 - Provide error handling for invalid locations or API connectivity issues.  
 
+## Link to Project Demo
+
+https://github.com/user-attachments/assets/faf2d5d3-fb29-4fe8-a638-6ffe0cd4807b
+
