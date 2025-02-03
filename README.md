@@ -12,5 +12,4 @@ Accessing real-time weather information is crucial for planning daily activities
 - Utilize a weather API to ensure accurate and up-to-date information.  
 - Present the weather report in a clear and user-friendly format.  
 - Provide error handling for invalid locations or API connectivity issues.  
-## Link to Project Demo
-"C:\Users\sowmy\OneDrive\Desktop\certificates\weatherrec.mp4"
+
